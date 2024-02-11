@@ -1,0 +1,9 @@
+Simple Photo Sharing Django Application 
+
+Module-
+1- Gallery\Dashboard where all images display - No Pagination or Load More
+2 - View Photo - By clicking button can view full size image in another page
+3 - Add Photo - Can be add photo using front-end 
+5 - Filter photos according to category
+6 - Can create category during adding new photo
+7 - Photo can be added without category
